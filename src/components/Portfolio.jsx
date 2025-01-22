@@ -27,12 +27,16 @@ function Portfolio() {
         },
         {
             id: 5,
-            src: reactSmooth
+            src: installNode
         },
         {
             id: 6,
             src: reactWeather
         },
+        {
+            id: 7,
+            src: usestate
+        }
     ]
   return (
     <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen'>
