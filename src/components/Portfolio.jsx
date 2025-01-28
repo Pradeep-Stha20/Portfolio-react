@@ -5,7 +5,6 @@ import navbar from '../assets/portfolio/navbar.jpg'
 import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
 import reactWeather from '../assets/portfolio/reactWeather.jpg'
-import usestate from '../assets/portfolio/usestate.jpg'
 
 function Portfolio() {
     const portfolios = [
@@ -32,10 +31,6 @@ function Portfolio() {
         {
             id: 6,
             src: reactWeather
-        },
-        {
-            id: 7,
-            src: usestate
         }
     ]
   return (
