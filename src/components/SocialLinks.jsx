@@ -13,7 +13,7 @@ const SocialLinks = () => {
             LinkedIn <FaLinkedin size={30}/>
             </>
         ),
-        href:'https://www.linkedin.com/in/pradeep-sherstha-51274a24b/',
+        href:'https://www.linkedin.com/in/pradeep-shrestha-51274a24b/',
         style: 'rounded-tr-md'
     },
     {
